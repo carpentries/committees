@@ -1,7 +1,7 @@
-# committees
-A repository with templates and documentation for The Carpentries committees. Committees may hold their public documentation in separate locations.
+# The Carpentries Committees
+A repository with templates and documentation for The Carpentries committees; committees may hold their public documentation in separate locations.
 
-### Past & Current Committees
+## Past & Current Committees
 
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/) (CACs)
