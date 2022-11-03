@@ -2,7 +2,7 @@
 
 This repository holds templates and documentation to help with the creation of The Carpentries committees; committees may hold their public documentation and host pages in separate locations.
 
-Committee proposals may be submitted by filing [an issue](/issues) on this reporitory and notifying [The Carpentries Core Team](mailto:team@carpentries.org).
+Committee proposals may be submitted by filing [an issue](issues) on this reporitory and notifying [The Carpentries Core Team](mailto:team@carpentries.org).
 
 ## Past & Current Committees
 
