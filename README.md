@@ -1,5 +1,5 @@
 # The Carpentries Committees
-A repository with templates and documentation for The Carpentries committees; committees may hold their public documentation in separate locations.
+A repository with templates and documentation for The Carpentries committees; committees may hold their public documentation and host pages in separate locations.
 
 ## Past & Current Committees
 
