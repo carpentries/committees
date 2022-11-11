@@ -14,3 +14,5 @@ assignees: ''
 2. Please provide a short paragraph outlining the context (i.e. the problem statement) of the committee.
   
 3. What is the purpose (i.e. aims and objectives) of the committee?
+
+4. Who is collaborating on this proposal (if known)?
